@@ -87,7 +87,7 @@ Cybersecurity Student | SOC Analyst | DFIR | Security Automation
 
 <img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Threat%20Hunting-DC2626?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Registry%20Explorer-DC2626?style=for-the-badge" />
 
 <img src="https://img.shields.io/badge/Incident%20Response-2563EB?style=for-the-badge" />
 
