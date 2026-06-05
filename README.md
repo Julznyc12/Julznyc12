@@ -185,24 +185,25 @@ Security automation platform utilizing:
 
 # 🤖 AI & Machine Learning
 
-### Models
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random_Forest-16A34A?style=for-the-badge)
+![Isolation Forest](https://img.shields.io/badge/Isolation_Forest-16A34A?style=for-the-badge)
+![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-16A34A?style=for-the-badge)
+![Attack Classification](https://img.shields.io/badge/Attack_Classification-16A34A?style=for-the-badge)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-16A34A?style=for-the-badge)
 
-- Random Forest
-- Isolation Forest
-- Logistic Regression
+---
 
-### Libraries
+# 🔐 Security Technologies
 
-- Scikit-Learn
-- Pandas
-- NumPy
-
-### Applications
-
-- Intrusion Detection
-- Attack Classification
-- Threat Intelligence Scoring
-- Security Analytics
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft)
+![Kerberos](https://img.shields.io/badge/Kerberos-0078D4?style=for-the-badge)
+![LDAP](https://img.shields.io/badge/LDAP-0078D4?style=for-the-badge)
+![RADIUS](https://img.shields.io/badge/RADIUS-0078D4?style=for-the-badge)
+![Group Policy](https://img.shields.io/badge/Group_Policy-0078D4?style=for-the-badge)
+![Authentication](https://img.shields.io/badge/Authentication-0078D4?style=for-the-badge)
+![Authorization](https://img.shields.io/badge/Authorization-0078D4?style=for-the-badge)
 
 ---
 
