@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Julian%20Silva--Erazo-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:juliansilva172@gmail.com">
+<a href="mailto:silvajulian1025@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
