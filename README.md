@@ -1,176 +1,302 @@
-<h1 align="center">Julian Silva-Erazo</h1>
-
-<h3 align="center">
-Cybersecurity Student | SOC Analyst | DFIR | Security Automation
-</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=SOC+Analyst+%7C+DFIR+Enthusiast;Threat+Detection+and+Incident+Response;Building+Silvanyx+Atlas;Security+Automation+with+n8n;AI-Powered+Intrusion+Detection+Systems;Digital+Forensics+and+Network+Security" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,100:0066FF&height=280&section=header&text=Julian%20Silva-Erazo&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOC%20Analyst%20|%20DFIR%20|%20Threat%20Detection%20|%20Security%20Automation&descAlignY=60"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=juliansilva172&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Security+Operations+Center+(SOC);Digital+Forensics+%26+Incident+Response+(DFIR);Threat+Detection+%26+Threat+Hunting;Security+Automation+with+n8n;Building+Silvanyx+Atlas;AI-Powered+Intrusion+Detection+Systems"/>
+</p>
+
+<p align="center">
+<a href="https://silvanyx.net">
+<img src="https://img.shields.io/badge/Portfolio-Silvanyx.net-blue?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/julian-silvaerazo">
+<img src="https://img.shields.io/badge/LinkedIn-Julian%20Silva--Erazo-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:juliansilva172@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=juliansilva172&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 Computer Science & Information Security Student
+```yaml
+Name: Julian Silva-Erazo
 
-🛡️ Passionate about SOC Operations, DFIR, Threat Hunting, and Security Engineering
+Education:
+  - B.S. Computer Science & Information Security
+  - John Jay College of Criminal Justice
 
-🔍 Focused on Incident Response, Network Forensics, Detection Engineering, and Security Automation
+Focus Areas:
+  - SOC Operations
+  - DFIR
+  - Threat Detection
+  - Threat Hunting
+  - Incident Response
+  - Detection Engineering
+  - Security Automation
 
-🚀 Currently building **Silvanyx Atlas**, an AI-assisted DFIR Timeline Reconstruction Platform
-
-📚 Currently preparing for **CompTIA Security+**
-
----
-
-## 🔭 I'm Currently Working On
-
-- Silvanyx Atlas (AI-Assisted DFIR Platform)
-- AI-Powered Intrusion Detection System
-- Threat Intelligence Automation Dashboard
-- Security Detection & Monitoring Labs
-- Digital Forensics Research Projects
-
----
-
-## 🌱 I'm Currently Learning
-
-- Digital Forensics & Incident Response (DFIR)
-- Threat Hunting & Incident Response
-- Active Directory Security
-- Detection Engineering
-- Cloud Security
-- Splunk & SIEM Engineering
-- Suricata IDS/IPS
-- Security Automation with n8n
+Current Goal:
+  - CompTIA Security+
+  - SOC / DFIR Internship
+  - Security Engineering Career Path
+```
 
 ---
 
-## 👯 I'm Looking to Collaborate On
+# 🚀 Current Projects
 
-- DFIR Projects
-- Threat Intelligence Platforms
-- Security Automation
-- Detection Engineering
-- Open Source Cybersecurity Tools
+## 🧠 Silvanyx Atlas
+
+AI-assisted DFIR Timeline Reconstruction Platform designed to help investigators analyze evidence and reconstruct incidents faster.
+
+### Features
+
+- Evidence ingestion
+- Timeline reconstruction
+- Artifact correlation
+- AI-assisted investigation workflows
+- Secure file processing
 
 ---
 
-## 💬 Ask Me About
+## 🛡️ AI-Powered Intrusion Detection System
 
-- SOC Operations
-- Threat Hunting
-- Incident Response
-- Digital Forensics
-- Network Forensics
-- Splunk
+Machine Learning based IDS utilizing:
+
 - Suricata
-- Python Automation
-- Cybersecurity Projects
+- Python
+- Random Forest
+- Isolation Forest
+- Attack Classification
+- Anomaly Detection
 
 ---
 
-## 🛠️ Security & DFIR Toolkit
+## 🌐 Threat Intelligence Automation Dashboard
 
-<p align="left">
+Security automation platform utilizing:
 
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Registry%20Explorer-DC2626?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Incident%20Response-2563EB?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/DFIR-1E293B?style=for-the-badge" />
-
-</p>
+- n8n
+- Groq
+- Hugging Face
+- Airtable
+- MITRE ATT&CK
+- Threat Intelligence Feeds
 
 ---
 
-## 💻 Languages & Technologies
+# 🛡️ DFIR Arsenal
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,react,js,html,css,fastapi,git,github,vscode,linux,bash" />
-</p>
+### Windows Forensics
 
----
+![Registry Explorer](https://img.shields.io/badge/Registry_Explorer-0052CC?style=for-the-badge)
+![LECmd](https://img.shields.io/badge/LECmd-0052CC?style=for-the-badge)
+![Windows Prefetch](https://img.shields.io/badge/Windows_Prefetch-0052CC?style=for-the-badge)
+![Jump Lists](https://img.shields.io/badge/Jump_Lists-0052CC?style=for-the-badge)
+![SRUM](https://img.shields.io/badge/SRUM-0052CC?style=for-the-badge)
+![Event Viewer](https://img.shields.io/badge/Event_Viewer-0052CC?style=for-the-badge)
+![USB Analysis](https://img.shields.io/badge/USB_Artifacts-0052CC?style=for-the-badge)
+![Recycle Bin](https://img.shields.io/badge/Recycle_Bin-0052CC?style=for-the-badge)
+![Registry Analysis](https://img.shields.io/badge/Registry_Analysis-0052CC?style=for-the-badge)
 
-## 🤖 AI & Automation
+### Browser & Cloud Forensics
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 Silvanyx Atlas
-AI-assisted DFIR platform focused on evidence ingestion, forensic timeline reconstruction, and investigator workflows.
-
-### 🛡️ AI-Powered IDS
-Machine learning-powered intrusion detection system utilizing Suricata alerts, anomaly detection, and attack classification.
-
-### 🌐 Threat Intelligence Automation Dashboard
-Automated threat scoring and enrichment platform built using n8n, Groq, Hugging Face, Airtable, and MITRE ATT&CK.
-
-### 🔒 Ransomware Detection Research
-Behavioral ransomware detection using Random Forest, Isolation Forest, and Logistic Regression models.
-
-### ⚔️ DDoS Detection & Mitigation Lab
-Hands-on testing using ApacheBench, Suricata, tcpdump, htop, iptables, and server hardening techniques.
+![SQLite Viewer](https://img.shields.io/badge/SQLite_Viewer-0891B2?style=for-the-badge)
+![Chrome Artifacts](https://img.shields.io/badge/Chrome_Artifacts-0891B2?style=for-the-badge)
+![Browser History](https://img.shields.io/badge/Browser_History-0891B2?style=for-the-badge)
+![Bookmarks](https://img.shields.io/badge/Bookmark_Analysis-0891B2?style=for-the-badge)
+![Downloads](https://img.shields.io/badge/Download_Analysis-0891B2?style=for-the-badge)
+![Cloud Forensics](https://img.shields.io/badge/Cloud_Forensics-0891B2?style=for-the-badge)
+![WebKit Timestamps](https://img.shields.io/badge/WebKit_Timestamps-0891B2?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Analytics
+# 🚨 SOC & Threat Detection
+
+### Monitoring & Analysis
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![tcpdump](https://img.shields.io/badge/tcpdump-1E293B?style=for-the-badge)
+![htop](https://img.shields.io/badge/htop-1E293B?style=for-the-badge)
+![Network Monitoring](https://img.shields.io/badge/Network_Monitoring-1E293B?style=for-the-badge)
+
+### Detection Engineering
+
+![Alert Triage](https://img.shields.io/badge/Alert_Triage-DC2626?style=for-the-badge)
+![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-DC2626?style=for-the-badge)
+![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-DC2626?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident_Response-DC2626?style=for-the-badge)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-DC2626?style=for-the-badge)
+
+---
+
+# ⚙️ Security Automation
+
+- n8n
+- Groq API
+- Hugging Face
+- Flowise
+- AI Alert Classification
+- Threat Scoring
+- MITRE ATT&CK Enrichment
+- Workflow Automation
+
+---
+
+# 💻 Programming & Development
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliansilva172&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliansilva172&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://skillicons.dev/icons?i=python,react,js,html,css,fastapi,git,github,vscode,linux,bash"/>
+
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=juliansilva172&theme=tokyonight&hide_border=true" />
-</p>
+### Languages
+
+- Python
+- JavaScript
+- HTML
+- CSS
+- SQL
+
+### Frameworks
+
+- FastAPI
+- React
+- Vite
+
+### Development Tools
+
+- Git
+- GitHub
+- VS Code
+- VirtualBox
 
 ---
 
-## 🏆 GitHub Achievements
+# 🤖 AI & Machine Learning
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=juliansilva172&theme=tokyonight&row=1&column=7" />
-</p>
+### Models
+
+- Random Forest
+- Isolation Forest
+- Logistic Regression
+
+### Libraries
+
+- Scikit-Learn
+- Pandas
+- NumPy
+
+### Applications
+
+- Intrusion Detection
+- Attack Classification
+- Threat Intelligence Scoring
+- Security Analytics
 
 ---
 
-## 📚 Current Focus
+# 🔬 Research & Labs
+
+### DDoS Detection & Mitigation
+
+Tools Used:
+
+- ApacheBench
+- Suricata
+- htop
+- tcpdump
+- iptables
+- UFW
+
+### Ransomware Detection Research
+
+Tools Used:
+
+- RanSMAP Dataset
+- Random Forest
+- Isolation Forest
+- Logistic Regression
+
+### Network Security & Forensics
+
+Topics:
+
+- Active Directory
+- Kerberos
+- LDAP
+- RADIUS
+- Group Policy
+- Authentication
+- Authorization
+
+---
+
+# 📈 Cybersecurity Focus
 
 ```text
 SOC Operations
-Threat Detection
+█████████████████████████ 100%
+
 Digital Forensics & Incident Response
+█████████████████████████ 100%
+
+Threat Detection
+████████████████████████░ 95%
+
 Security Automation
-Threat Intelligence
-Detection Engineering
-AI for Cybersecurity
+███████████████████████░░ 90%
+
+Cloud Security
+██████████████████░░░░░░░ 75%
+
 Security Engineering
+████████████████████░░░░░ 85%
+```
+
+---
+
+# 🏆 Featured Repositories
+
+🧠 Silvanyx Atlas
+
+🛡️ AI-Powered IDS
+
+🌐 Threat Intelligence Automation Dashboard
+
+🔒 Ransomware Detection Research
+
+⚔️ DDoS Detection & Mitigation Lab
+
+📊 Splunk Detection Labs
+
+🔍 DFIR Investigations
+
+---
+
+# 🎯 2026 Goals
+
+- CompTIA Security+
+- SOC Analyst Internship
+- Build Silvanyx Atlas MVP
+- Expand DFIR Portfolio
+- Contribute to Open Source Security Projects
+- Continue Security Research
+
+---
+
+> "The goal isn't to collect alerts. The goal is to understand what happened, why it happened, and how to prevent it from happening again."
+
+<p align="center">
+⚡ Building the future of DFIR through Silvanyx ⚡
+</p>
