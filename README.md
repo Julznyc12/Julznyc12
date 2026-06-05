@@ -127,7 +127,7 @@ Security automation platform utilizing:
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![tcpdump](https://img.shields.io/badge/tcpdump-1E293B?style=for-the-badge)
 ![htop](https://img.shields.io/badge/htop-1E293B?style=for-the-badge)
-![Network Monitoring](https://img.shields.io/badge/Network_Monitoring-1E293B?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-1E293B?style=for-the-badge)
 
 ### Detection Engineering
 
@@ -202,8 +202,8 @@ Security automation platform utilizing:
 ![LDAP](https://img.shields.io/badge/LDAP-0078D4?style=for-the-badge)
 ![RADIUS](https://img.shields.io/badge/RADIUS-0078D4?style=for-the-badge)
 ![Group Policy](https://img.shields.io/badge/Group_Policy-0078D4?style=for-the-badge)
-![Authentication](https://img.shields.io/badge/Authentication-0078D4?style=for-the-badge)
-![Authorization](https://img.shields.io/badge/Authorization-0078D4?style=for-the-badge)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox)
 
 ---
 
