@@ -36,9 +36,7 @@ Education:
 Focus Areas:
   - SOC Operations
   - DFIR
-  - Threat Detection
   - Threat Hunting
-  - Incident Response
   - Detection Engineering
   - Security Automation
 
@@ -237,9 +235,6 @@ Threat Detection
 Security Automation
 ███████████████████████░░ 90%
 
-Cloud Security
-██████████████████░░░░░░░ 75%
-
 Security Engineering
 ████████████████████░░░░░ 85%
 ```
@@ -249,7 +244,7 @@ Security Engineering
 # 🎯 2026 Goals
 
 - CompTIA Security+
-- SOC Analyst Internship
+- SOC Analyst or DFIR Internship
 - Build Silvanyx Atlas MVP
 - Expand DFIR Portfolio
 - Contribute to Open Source Security Projects
