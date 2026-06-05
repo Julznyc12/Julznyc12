@@ -160,27 +160,6 @@ Security automation platform utilizing:
 
 </p>
 
-### Languages
-
-- Python
-- JavaScript
-- HTML
-- CSS
-- SQL
-
-### Frameworks
-
-- FastAPI
-- React
-- Vite
-
-### Development Tools
-
-- Git
-- GitHub
-- VS Code
-- VirtualBox
-
 ---
 
 # 🤖 AI & Machine Learning
@@ -264,24 +243,6 @@ Cloud Security
 Security Engineering
 ████████████████████░░░░░ 85%
 ```
-
----
-
-# 🏆 Featured Repositories
-
-🧠 Silvanyx Atlas
-
-🛡️ AI-Powered IDS
-
-🌐 Threat Intelligence Automation Dashboard
-
-🔒 Ransomware Detection Research
-
-⚔️ DDoS Detection & Mitigation Lab
-
-📊 Splunk Detection Labs
-
-🔍 DFIR Investigations
 
 ---
 
